@@ -1,6 +1,6 @@
 # PlanetsAR Project
 
-This project was developed as part of the **CEN 451 -- Introduction to
+This project was developed as part of the **CEN 451 Introduction to
 Mixed Reality Application** course. It is a mobile Augmented Reality
 (AR) experience built with **Unity 2022 LTS** and **AR Foundation**,
 allowing users to explore and interact with 3D planetary models in
