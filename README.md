@@ -1,4 +1,4 @@
-# PlanetsAR_Project
+# PlanetsAR Project
 
 This project was developed as part of the **CEN 451 -- Introduction to
 Mixed Reality Application** course. It is a mobile Augmented Reality
